@@ -34,7 +34,14 @@ The system had to operate under real-world constraints:
 These constraints strongly influenced the final architecture.
 
 ---
+# RU-PATH — AI-Powered Campus Parking & Transit Assistant
 
+▶️ **Demo Video:** https://youtu.be/XkFiByMFBlc
+
+RU-PATH is an AI system that answers natural-language questions about parking eligibility, bus routing, and building navigation across Rutgers University–New Brunswick.  
+The system is designed to **ground LLM responses in official institutional data**, enforce deterministic rules, and support multi-turn, constraint-aware reasoning.
+
+---
 ## Key Design Decisions
 
 ### Deterministic Rule Enforcement
