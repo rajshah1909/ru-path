@@ -1,0 +1,1085 @@
+{
+  "metadata": {
+    "name": "RUPATH Parking & Transit Dataset",
+    "version": "0.1.0",
+    "generated_at": "2025-11-04T21:56:18Z",
+    "notes": [
+      "Permit rules populated from user-provided document.",
+      "Coordinates for lots, buildings, and bus stops to be auto-filled from Rutgers Interactive Map (Option B).",
+      "Hours use local campus time; 12AM means midnight."
+    ]
+  },
+  "Permits": {
+    "Busch Commuter": {
+      "Busch": [
+        {
+          "Type": "Primary Access",
+          "Lots": [
+            "Lot 602/Stadium West Lot"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 50",
+            "Lot 51",
+            "Lot 51B",
+            "Lot 53A",
+            "Lot 54",
+            "Lot 58",
+            "Lot 58A",
+            "Lot 59",
+            "Lot 60A",
+            "Lot 60B",
+            "Lot 61",
+            "Lot 63",
+            "Lot 63B",
+            "Lot 63C",
+            "Lot 64",
+            "Lot 66B",
+            "Lot 67B",
+            "Gated Lot 55"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": "Secondary permit holders are allowed to park between the hours of 10AM - 12AM, Mon - Fri"
+        }
+      ],
+      "College Ave": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 11 NB",
+            "Lot 13",
+            "Gated Lot 16",
+            "Lot 20",
+            "Lot 26",
+            "Lot 30",
+            "Lot 33",
+            "Lot 505/ CAC Parking Deck",
+            "Public Safety Building Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Cook": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 94",
+            "Lot 95",
+            "Lot 97",
+            "Lot 98A",
+            "Lot 98B",
+            "Lot 805/Lipman Drive"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Douglass": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 70",
+            "Lot 71A",
+            "Lot 74A",
+            "Lot 75",
+            "Lot 76",
+            "Gated Lot 79A",
+            "Lot 79",
+            "Lot 81",
+            "Lot 82",
+            "Lot 83",
+            "Lot 84",
+            "Lot 86",
+            "Lot 88",
+            "Lot 96",
+            "Lot 96A",
+            "Douglas Deck",
+            "Lot 709/Corwin",
+            "Lot 70"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Livingston": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 101",
+            "Lot 107",
+            "Lot 108",
+            "Lot 110",
+            "Lot 111",
+            "Lot 112",
+            "Lot 914/Scarlet Lot",
+            "Lot 916/Green Lot",
+            "Lot 915/ Yellow Lot"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Health - Piscataway": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot A",
+            "Lot B",
+            "Lot C"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Newark": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 509A Eagle East",
+            "Lot 509B Eagle West"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Deck 3",
+            "P1 Norfolk Parking Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "N/A - See Newark Lot 509A/B Hours"
+          },
+          "Notes": null
+        }
+      ],
+      "Camden": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot C1",
+            "Lot C2",
+            "Lot C3",
+            "Lot C14"
+          ],
+          "Hours": {
+            "Mon - Fri": "N/A - See Lot C15/C16 Hours",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot C15",
+            "Lot C16"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 9:30PM",
+            "Sat - Sun": "N/A - See Lot C1-C14 Hours"
+          },
+          "Notes": null
+        }
+      ],
+      "Piscataway": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "33 Knightsbridge Rd",
+            "151 Centennial Ave"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ]
+    },
+    "College Ave Commuter": {
+      "College Ave": [
+        {
+          "Type": "Primary Access",
+          "Lots": [
+            "Lot 20",
+            "Lot 26",
+            "Lot 30",
+            "Lot 505/ CAC Parking Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 11 NB",
+            "Lot 13",
+            "Gated Lot 16",
+            "Lot 32",
+            "Lot 33",
+            "Public Safety Building Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Busch": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 50",
+            "Lot 51",
+            "Lot 51B",
+            "Lot 53A",
+            "Lot 54",
+            "Lot 58",
+            "Lot 58A",
+            "Lot 59",
+            "Lot 60A",
+            "Lot 60B",
+            "Lot 61",
+            "Lot 63",
+            "Lot 63B",
+            "Lot 63C",
+            "Lot 64",
+            "Lot 66B",
+            "Lot 67B",
+            "Lot 613/Stadium West",
+            "Gated Lot 55"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Cook": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 94",
+            "Lot 95",
+            "Lot 97",
+            "Lot 98A",
+            "Lot 98B",
+            "Lot 805/Lipman Drive"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Douglass": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 70",
+            "Lot 71A",
+            "Lot 74A",
+            "Lot 75",
+            "Lot 76",
+            "Gated Lot 79A",
+            "Lot 79",
+            "Lot 81",
+            "Lot 82",
+            "Lot 83",
+            "Lot 84",
+            "Lot 86",
+            "Lot 88",
+            "Lot 96",
+            "Lot 96A",
+            "Douglas Deck",
+            "Lot 709/Corwin"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Livingston": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 101",
+            "Lot 107",
+            "Lot 108",
+            "Lot 110",
+            "Lot 111",
+            "Lot 112",
+            "Lot 914/Scarlet Lot",
+            "Lot 916/Green Lot",
+            "Lot 915/ Yellow Lot"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Health - Piscataway": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot A",
+            "Lot B",
+            "Lot C"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Newark": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Deck 3",
+            "P1 Norfolk Parking Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 509A Eagle East",
+            "Lot 509B Eagle West"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Camden": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot C15",
+            "Lot C16"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 9:30PM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot C1",
+            "Lot C2",
+            "Lot C3",
+            "Lot C14"
+          ],
+          "Hours": {
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Piscataway": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "33 Knightsbridge Rd",
+            "151 Centennial Ave"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ]
+    },
+    "Cook Commuter": {
+      "Cook": [
+        {
+          "Type": "Primary Access",
+          "Lots": [
+            "Lot 98A",
+            "Lot 98B",
+            "Lot 99C",
+            "Lot 99D"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 94",
+            "Lot 95",
+            "Lot 97",
+            "Lot 805/Lipman Drive"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": "Secondary permit holders are allowed to park between the hours of 10AM - 12AM, Mon - Fri"
+        }
+      ],
+      "Douglass": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 70",
+            "Lot 71A",
+            "Lot 74A",
+            "Lot 75",
+            "Lot 76",
+            "Gated Lot 79A",
+            "Lot 79",
+            "Lot 81",
+            "Lot 82",
+            "Lot 83",
+            "Lot 84",
+            "Lot 86",
+            "Lot 88",
+            "Lot 96",
+            "Lot 96A",
+            "Douglas Deck",
+            "Lot 709/Corwin"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Busch": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 50",
+            "Lot 51",
+            "Lot 51B",
+            "Lot 53A",
+            "Lot 54",
+            "Lot 58",
+            "Lot 58A",
+            "Lot 59",
+            "Lot 60A",
+            "Lot 60B",
+            "Lot 61",
+            "Lot 63",
+            "Lot 63B",
+            "Lot 63C",
+            "Lot 64",
+            "Lot 66B",
+            "Lot 67B",
+            "Lot 613/Stadium West",
+            "Gated Lot 55"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "College Ave": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 11 NB",
+            "Lot 13",
+            "Gated Lot 16",
+            "Lot 20",
+            "Lot 26",
+            "Lot 30",
+            "Lot 33",
+            "Lot 505/ CAC Parking Deck",
+            "Public Safety Building Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Livingston": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 101",
+            "Lot 107",
+            "Lot 108",
+            "Lot 110",
+            "Lot 111",
+            "Lot 112",
+            "Lot 914/Scarlet Lot",
+            "Lot 916/Green Lot",
+            "Lot 915/ Yellow Lot"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Health - Piscataway": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot A",
+            "Lot B",
+            "Lot C"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Newark": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Deck 3",
+            "P1 Norfolk Parking Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 509A Eagle East",
+            "Lot 509B Eagle West"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Camden": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot C15",
+            "Lot C16"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 9:30PM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot C1",
+            "Lot C2",
+            "Lot C3",
+            "Lot C14"
+          ],
+          "Hours": {
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Piscataway": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "33 Knightsbridge Rd",
+            "151 Centennial Ave"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ]
+    },
+    "Douglass Commuter": {
+      "Douglass": [
+        {
+          "Type": "Primary Access",
+          "Lots": [
+            "Lot 79",
+            "Douglas Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 70",
+            "Lot 71A",
+            "Lot 74A",
+            "Lot 75",
+            "Lot 76",
+            "Gated Lot 79A",
+            "Lot 82",
+            "Lot 81",
+            "Lot 82",
+            "Lot 83",
+            "Lot 84",
+            "Lot 86",
+            "Lot 88",
+            "Lot 96",
+            "Lot 96A",
+            "Lot 709/Corwin"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": "Secondary permit holders are allowed to park between the hours of 10AM - 12AM, Mon - Fri"
+        }
+      ],
+      "Cook": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 94",
+            "Lot 95",
+            "Lot 97",
+            "Lot 98A",
+            "Lot 98B",
+            "Lot 805/Lipman Drive"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Busch": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 50",
+            "Lot 51",
+            "Lot 51B",
+            "Lot 53A",
+            "Lot 54",
+            "Lot 58",
+            "Lot 58A",
+            "Lot 59",
+            "Lot 60A",
+            "Lot 60B",
+            "Lot 61",
+            "Lot 63",
+            "Lot 63B",
+            "Lot 63C",
+            "Lot 64",
+            "Lot 66B",
+            "Lot 67B",
+            "Lot 613/Stadium West",
+            "Gated Lot 55"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "College Ave": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 11 NB",
+            "Lot 13",
+            "Gated Lot 16",
+            "Lot 20",
+            "Lot 26",
+            "Lot 30",
+            "Lot 33",
+            "Lot 505/ CAC Parking Deck",
+            "Public Safety Building Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Livingston": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 101",
+            "Lot 107",
+            "Lot 108",
+            "Lot 110",
+            "Lot 111",
+            "Lot 112",
+            "Lot 914/Scarlet Lot",
+            "Lot 916/Green Lot",
+            "Lot 915/ Yellow Lot"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Health - Piscataway": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot A",
+            "Lot B",
+            "Lot C"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Newark": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Deck 3",
+            "P1 Norfolk Parking Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 509A Eagle East",
+            "Lot 509B Eagle West"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Camden": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot C15",
+            "Lot C16"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 9:30PM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot C1",
+            "Lot C2",
+            "Lot C3",
+            "Lot C14"
+          ],
+          "Hours": {
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Piscataway": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "33 Knightsbridge Rd",
+            "151 Centennial Ave"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ]
+    },
+    "Livingston Commuter": {
+      "Livingston": [
+        {
+          "Type": "Primary Access",
+          "Lots": [
+            "Lot 915/ Yellow Lot"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 101",
+            "Lot 107",
+            "Lot 108",
+            "Lot 110",
+            "Lot 111",
+            "Lot 112",
+            "Lot 914/Scarlet Lot",
+            "Lot 916/Green Lot"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": "Secondary permit holders are allowed to park between the hours of 10AM - 12AM, Mon - Fri"
+        }
+      ],
+      "Busch": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 50",
+            "Lot 51",
+            "Lot 51B",
+            "Lot 53A",
+            "Lot 54",
+            "Lot 58",
+            "Lot 58A",
+            "Lot 59",
+            "Lot 60A",
+            "Lot 60B",
+            "Lot 61",
+            "Lot 63",
+            "Lot 63B",
+            "Lot 63C",
+            "Lot 64",
+            "Lot 66B",
+            "Lot 67B",
+            "Lot 613/Stadium West",
+            "Gated Lot 55"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "College Ave": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 11 NB",
+            "Lot 13",
+            "Gated Lot 16",
+            "Lot 20",
+            "Lot 26",
+            "Lot 30",
+            "Lot 33",
+            "Lot 505/ CAC Parking Deck",
+            "Public Safety Building Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Cook": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 94",
+            "Lot 95",
+            "Lot 97",
+            "Lot 98A",
+            "Lot 98B",
+            "Lot 805/Lipman Drive"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Douglass": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 70",
+            "Lot 71A",
+            "Lot 74A",
+            "Lot 75",
+            "Lot 76",
+            "Gated Lot 79A",
+            "Lot 79",
+            "Lot 81",
+            "Lot 82",
+            "Lot 83",
+            "Lot 84",
+            "Lot 86",
+            "Lot 88",
+            "Lot 96",
+            "Lot 96A",
+            "Douglas Deck",
+            "Lot 709/Corwin"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Health - Piscataway": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot A",
+            "Lot B",
+            "Lot C"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Newark": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Deck 3",
+            "P1 Norfolk Parking Deck"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot 509A Eagle East",
+            "Lot 509B Eagle West"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Camden": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot C15",
+            "Lot C16"
+          ],
+          "Hours": {
+            "Mon - Fri": "5PM - 9:30PM"
+          },
+          "Notes": null
+        },
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "Lot C1",
+            "Lot C2",
+            "Lot C3",
+            "Lot C14"
+          ],
+          "Hours": {
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ],
+      "Piscataway": [
+        {
+          "Type": "Secondary Permit Access",
+          "Lots": [
+            "33 Knightsbridge Rd",
+            "151 Centennial Ave"
+          ],
+          "Hours": {
+            "Mon - Fri": "6AM - 12AM",
+            "Sat - Sun": "6AM - 12AM"
+          },
+          "Notes": null
+        }
+      ]
+    }
+  },
+  "Lots": {},
+  "Buildings": {},
+  "BusStops": {}
+}

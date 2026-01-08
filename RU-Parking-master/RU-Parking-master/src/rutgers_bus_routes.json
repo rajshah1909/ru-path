@@ -1,0 +1,170 @@
+{
+  "system": "Rutgers New Brunswick Campus Bus System",
+  "last_updated": "2025-11-19",
+  "routes": [
+    {
+      "route_id": "A",
+      "route_name": "College Avenue & Busch",
+      "color": "#800080",
+      "direction": "bidirectional",
+      "stops": [
+        { "stop_id": "A1", "stop_name": "College Avenue Student Center", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "A2", "stop_name": "The Yard", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "A3", "stop_name": "Student Activities Center", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "A4", "stop_name": "Stadium West Lot", "campus": "Busch", "coordinates": null },
+        { "stop_id": "A5", "stop_name": "Hill Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "A6", "stop_name": "Science Building", "campus": "Busch", "coordinates": null },
+        { "stop_id": "A7", "stop_name": "Busch Student Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "A8", "stop_name": "Werblin Recreation Center", "campus": "College Avenue", "coordinates": null }
+      ]
+    },
+    {
+      "route_id": "B",
+      "route_name": "Livingston & Busch",
+      "color": "#0066CC",
+      "direction": "bidirectional",
+      "stops": [
+        { "stop_id": "B1", "stop_name": "Livingston Student Center", "campus": "Livingston", "coordinates": null },
+        { "stop_id": "B2", "stop_name": "Quads", "campus": "Livingston", "coordinates": null },
+        { "stop_id": "B3", "stop_name": "Hill Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "B4", "stop_name": "Science Building", "campus": "Busch", "coordinates": null },
+        { "stop_id": "B5", "stop_name": "Busch Student Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "B6", "stop_name": "Livingston Plaza", "campus": "Livingston", "coordinates": null }
+      ]
+    },
+    {
+      "route_id": "BL",
+      "route_name": "Busch & Livingston",
+      "color": "#808080",
+      "direction": "bidirectional",
+      "stops": [
+        { "stop_id": "BL1", "stop_name": "Jersey Mike's Arena", "campus": "Livingston", "coordinates": null },
+        { "stop_id": "BL2", "stop_name": "Quads", "campus": "Livingston", "coordinates": null },
+        { "stop_id": "BL3", "stop_name": "Busch Student Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "BL4", "stop_name": "Rodkin", "campus": "Busch", "coordinates": null },
+        { "stop_id": "BL5", "stop_name": "Stadium West Lot", "campus": "Busch", "coordinates": null },
+        { "stop_id": "BL6", "stop_name": "Hill Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "BL7", "stop_name": "Science Building", "campus": "Busch", "coordinates": null }
+      ]
+    },
+    {
+      "route_id": "C",
+      "route_name": "Busch Commuter Shuttle",
+      "color": "#6B8E23",
+      "direction": "bidirectional",
+      "stops": [
+        { "stop_id": "C1", "stop_name": "Stadium West Lot", "campus": "Busch", "coordinates": null },
+        { "stop_id": "C2", "stop_name": "Hill Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "C3", "stop_name": "Allison Road Classroom Building", "campus": "Busch", "coordinates": null },
+        { "stop_id": "C4", "stop_name": "Hill Center", "campus": "Busch", "coordinates": null }
+      ]
+    },
+    {
+      "route_id": "EE",
+      "route_name": "College Ave & Cook/Douglass",
+      "color": "#CC0000",
+      "direction": "bidirectional",
+      "stops": [
+        { "stop_id": "EE1", "stop_name": "College Avenue Student Center", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "EE2", "stop_name": "The Yard", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "EE3", "stop_name": "SoCam Apartments", "campus": "Downtown New Brunswick", "coordinates": null },
+        { "stop_id": "EE4", "stop_name": "Red Oak Lane", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "EE5", "stop_name": "Lipman Hall", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "EE6", "stop_name": "Biel Road", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "EE7", "stop_name": "Henderson Apartments", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "EE8", "stop_name": "Gibbons", "campus": "Downtown New Brunswick", "coordinates": null },
+        { "stop_id": "EE9", "stop_name": "College Hall", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "EE10", "stop_name": "SoCam Apartments", "campus": "Downtown New Brunswick", "coordinates": null },
+        { "stop_id": "EE11", "stop_name": "Student Activities Center", "campus": "College Avenue", "coordinates": null }
+      ]
+    },
+    {
+      "route_id": "F",
+      "route_name": "College Ave & Cook/Douglass",
+      "color": "#990033",
+      "direction": "bidirectional",
+      "stops": [
+        { "stop_id": "F1", "stop_name": "Red Oak Lane", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "F2", "stop_name": "Lipman Hall", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "F3", "stop_name": "College Hall", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "F4", "stop_name": "Student Activities Center", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "F5", "stop_name": "The Yard", "campus": "College Avenue", "coordinates": null }
+      ]
+    },
+    {
+      "route_id": "H",
+      "route_name": "College Avenue & Busch",
+      "color": "#FF69B4",
+      "direction": "bidirectional",
+      "stops": [
+        { "stop_id": "H1", "stop_name": "College Avenue Student Center", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "H2", "stop_name": "The Yard", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "H3", "stop_name": "Student Activities Center", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "H4", "stop_name": "Werblin Recreation Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "H5", "stop_name": "Busch Student Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "H6", "stop_name": "Allison Road Classroom Building", "campus": "Busch", "coordinates": null },
+        { "stop_id": "H7", "stop_name": "Hill Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "H8", "stop_name": "Stadium West Lot", "campus": "Busch", "coordinates": null }
+      ]
+    },
+    {
+      "route_id": "LX",
+      "route_name": "College Avenue & Livingston",
+      "color": "#FF8C00",
+      "direction": "bidirectional",
+      "stops": [
+        { "stop_id": "LX1", "stop_name": "College Avenue Student Center", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "LX2", "stop_name": "The Yard", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "LX3", "stop_name": "Student Activities Center", "campus": "College Avenue", "coordinates": null },
+        { "stop_id": "LX4", "stop_name": "Livingston Plaza", "campus": "Livingston", "coordinates": null },
+        { "stop_id": "LX5", "stop_name": "Livingston Student Center", "campus": "Livingston", "coordinates": null },
+        { "stop_id": "LX6", "stop_name": "Quads", "campus": "Livingston", "coordinates": null }
+      ]
+    },
+    {
+      "route_id": "REXB",
+      "route_name": "Douglass & Busch",
+      "color": "#654321",
+      "direction": "bidirectional",
+      "stops": [
+        { "stop_id": "REXB1", "stop_name": "Red Oak Lane", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "REXB2", "stop_name": "Lipman Hall", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "REXB3", "stop_name": "College Hall", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "REXB4", "stop_name": "Hill Center", "campus": "Busch", "coordinates": null },
+        { "stop_id": "REXB5", "stop_name": "Allison Road Classroom Building", "campus": "Busch", "coordinates": null },
+        { "stop_id": "REXB6", "stop_name": "Hill Center", "campus": "Busch", "coordinates": null }
+      ]
+    },
+    {
+      "route_id": "REXL",
+      "route_name": "Douglass & Livingston",
+      "color": "#228B22",
+      "direction": "bidirectional",
+      "stops": [
+        { "stop_id": "REXL1", "stop_name": "Red Oak Lane", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "REXL2", "stop_name": "Lipman Hall", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "REXL3", "stop_name": "College Hall", "campus": "Cook/Douglass", "coordinates": null },
+        { "stop_id": "REXL4", "stop_name": "Livingston Plaza", "campus": "Livingston", "coordinates": null },
+        { "stop_id": "REXL5", "stop_name": "Livingston Student Center", "campus": "Livingston", "coordinates": null }
+      ]
+    }
+  ],
+  "campuses": [
+    { "campus_name": "College Avenue", "campus_code": "CA", "description": "Main campus in New Brunswick" },
+    { "campus_name": "Busch", "campus_code": "BU", "description": "Science and engineering campus" },
+    { "campus_name": "Livingston", "campus_code": "LI", "description": "Student life and recreation campus" },
+    { "campus_name": "Cook/Douglass", "campus_code": "CD", "description": "Agricultural and environmental campus" },
+    { "campus_name": "Downtown New Brunswick", "campus_code": "DNB", "description": "Downtown off-campus housing area" }
+  ],
+  "service_hours": {
+    "weekday": { "start_time": "06:00", "end_time": "02:00", "notes": "Service varies by route" },
+    "weekend": { "start_time": "09:00", "end_time": "02:00", "notes": "Limited service on some routes" }
+  },
+  "notes": [
+    "All routes are bidirectional unless otherwise specified",
+    "Actual bus frequencies vary by route and time of day",
+    "Check Rutgers mobile app or website for real-time tracking",
+    "Some routes may have reduced service during breaks and summer sessions",
+    "Coordinates can be added for GPS-based features"
+  ]
+}

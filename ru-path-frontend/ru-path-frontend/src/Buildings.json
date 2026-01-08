@@ -1,0 +1,1327 @@
+{
+  "Busch": [
+    {
+      "name": "Computing Research & Education Building (CoRE)",
+      "bus_stops": [
+        "Hill Center"
+      ]
+    },
+    {
+      "name": "Psychology Building",
+      "bus_stops": [
+        "Science Building"
+      ]
+    },
+    {
+      "name": "Serin Physics Building",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Physics & Astronomy / Physics Library",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Wright\u2013Rieman Chemistry Building / Chemistry Library / Geology",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Chemistry Building (new chemistry building)",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Hill Center",
+      "bus_stops": [
+        "Hill Center"
+      ]
+    },
+    {
+      "name": "Mathematical Sciences Library",
+      "bus_stops": [
+        "Hill Center"
+      ]
+    },
+    {
+      "name": "Life Sciences Building",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Nelson Biology Laboratories",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Waksman Institute of Microbiology",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Waksman Greenhouse",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Science & Engineering Resource Center",
+      "bus_stops": [
+        "Hill Center"
+      ]
+    },
+    {
+      "name": "Center for Advanced Energy Systems",
+      "bus_stops": [
+        "Hill Center"
+      ]
+    },
+    {
+      "name": "Nanophysics Lab",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Civil & Environmental Engineering Building",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Civil Engineering Annex",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Center for Advanced Infrastructure & Transportation (CAIT)",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Center for Packaging Engineering",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Center for Ceramic Research",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Fiber Optic Materials Research Building",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Environmental & Occupational Health Sciences Institute",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Center for Alcohol Studies",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Center for Integrative Proteomics Research",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Center for Advanced Biotechnology & Medicine",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Daniel I. Kessler Teaching Laboratories",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Pharmacy Building / William Levine Hall",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "RWJMS Research Tower & Graduate School of Biomedical Sciences",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "RWJMS Research Building & School of Public Health",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "RWJMS Staged Research Building",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Cullman Laboratory for Cancer Research",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Graduate School of Applied & Professional Psychology Offices",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Allison Road Classroom Building (ARC)",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Busch Lab Center",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Busch Student Center",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Busch Dining Hall",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Library of Science & Medicine",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Library Technical Services",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Library Annexes",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Paul Robeson Cultural Center",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Rutgers Federal Credit Union",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "McLaren Center (McLaren Union)",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Buell Apartments",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Johnson Apartments",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Marvin Apartments",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "McCormick Hall",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Metzger Hall",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Mattia Hall",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Morrow Hall",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Allen Hall",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Barr Hall",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Crosby Hall",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Judson Hall",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Nichols Apartments",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Richardson Apartments",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Russell Apartments",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Silvers Apartments",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Winkler Hall",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Davidson Residence Halls",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Richardson Community Center",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Housing Services",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "High Point Solutions Stadium / Stadium / SHI Stadium area",
+      "bus_stops": [
+        "Stadium West Lot"
+      ]
+    },
+    {
+      "name": "Yurcak Field & Yurcak Field Building",
+      "bus_stops": [
+        "Hill Center"
+      ]
+    },
+    {
+      "name": "Sonny Werblin Recreation Center",
+      "bus_stops": [
+        "Werblin Recreation Center"
+      ]
+    },
+    {
+      "name": "University Park & Recreation Complex",
+      "bus_stops": [
+        "Werblin Recreation Center"
+      ]
+    },
+    {
+      "name": "Scarlet Knights Sports Club Field & Field House & Pavilion",
+      "bus_stops": [
+        "Werblin Recreation Center"
+      ]
+    },
+    {
+      "name": "Scarlet Knights Sports Club Turf Field",
+      "bus_stops": [
+        "Werblin Recreation Center"
+      ]
+    },
+    {
+      "name": "Busch Practice Bubble",
+      "bus_stops": [
+        "Stadium West Lot"
+      ]
+    },
+    {
+      "name": "Athletes Glen",
+      "bus_stops": [
+        "Stadium West Lot"
+      ]
+    },
+    {
+      "name": "Golf Course Office",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Golf Course Practice & Teaching Facility",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Rutgers Golf Course",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "University Behavioral Health Care",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "University Behavioral Health Care \u2014 North",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+     {
+      "name": "UBHC Children\u2019s Transitional Residence",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Busch\u2013Livingston Health Center",
+      "bus_stops": [
+        "Jersey Mike\u2019s Arena"
+      ]
+    },
+    {
+      "name": "Visitor Center",
+      "bus_stops": [
+        "Stadium West Lot"
+      ]
+    },
+    {
+      "name": "ASB I",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "ASB Annex I",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "ASB Annex II",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "Rutgers University Facilities Operations & Services",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Environmental Services Building",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Motor Pool",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "University Facilities Operations & Services (again noted on map)",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Busch Cogeneration Plant",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "University Park & Recreation Complex (also listed above under rec)",
+      "bus_stops": [
+        "Jersey Mike\u2019s Arena"
+      ]
+    },
+    {
+      "name": "Fire & Emergency Services Center",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Center for Packaging Engineering (also above)",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Smithers Hall",
+      "bus_stops": [
+        "Allison Road Classroom Building"
+      ]
+    },
+    {
+      "name": "Modular Buildings (Biomed Engineering Modular, general modular bldg)",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "33 Davidson Road",
+      "bus_stops": [
+        "Busch Student Center"
+      ]
+    },
+    {
+      "name": "University Park & Recreation Complex",
+      "bus_stops": [
+        "Werblin Recreation Center"
+      ]
+    }
+  ],
+     "Livingston": [
+    {
+      "name": "Tillett Hall",
+      "bus_stops": [
+        "The Quads"
+      ]
+    },
+    {
+      "name": "Beck Hall",
+      "bus_stops": [
+        "Livingston Plaza"
+      ]
+    },
+    {
+      "name": "Lucy Stone Hall",
+      "bus_stops": [
+        "Livingston Student Center"
+      ]
+    },
+    {
+      "name": "Livingston Student Center",
+      "bus_stops": [
+        "Livingston Student Center"
+      ]
+    },
+    {
+      "name": "Rutgers Business School",
+      "bus_stops": [
+        "Livingston Plaza",
+        "Jersey Mike\u2019s Arena"
+      ]
+    },
+    {
+      "name": "James Dickson Carr Library",
+      "bus_stops": [
+        "Livingston Student Center"
+      ]
+    },
+    {
+      "name": "Janice H. Levin Building",
+      "bus_stops": [
+        "Livingston Plaza"
+      ]
+    },
+    {
+      "name": "Livingston Dining Commons",
+      "bus_stops": [
+        "Livingston Student Center"
+      ]
+    },
+    {
+      "name": "Livingston Recreation Center",
+      "bus_stops": [
+        "The Quads"
+      ]
+    },
+    {
+      "name": "Instructional Television Studio (ITV)",
+      "bus_stops": [
+        "The Quads"
+      ]
+    },
+    {
+      "name": "Livingston Apartments A, B, C",
+      "bus_stops": [
+        "Livingston Plaza",
+        "Livingston Student Center"
+      ]
+    },
+    {
+      "name": "Lynton Towers North & South",
+      "bus_stops": [
+        "Livingston Student Center"
+      ]
+    },
+    {
+      "name": "Livingston Quads",
+      "bus_stops": [
+        "The Quads"
+      ]
+    },
+    {
+      "name": "MGSA Visual Arts Building",
+      "bus_stops": [
+        "SoCam Apartments"
+      ]
+    },
+    {
+      "name": "Livingston Art Studios",
+      "bus_stops": [
+        "Livingston Student Center"
+      ]
+    },
+     {
+      "name": "Livingston Sculpture Arts Building",
+      "bus_stops": ["Livingston Student Center"]
+    },
+    {
+      "name": "Louis Brown Athletic Center (RAC) / Jersey Mike’s Arena",
+      "bus_stops": ["Jersey Mike’s Arena"]
+    },
+    {
+      "name": "RWJBarnabas Health Athletic Performance Center",
+      "bus_stops": ["Jersey Mike’s Arena"]
+    },
+    {
+      "name": "Fred Hill Training Complex",
+      "bus_stops": ["Jersey Mike’s Arena"]
+    },
+    {
+      "name": "Bainton Field",
+      "bus_stops": ["Jersey Mike’s Arena"]
+    },
+    {
+      "name": "Bauer Track & Field Complex",
+      "bus_stops": ["Jersey Mike’s Arena"]
+    },
+    {
+      "name": "Guninger Baseball Complex",
+      "bus_stops": ["Jersey Mike’s Arena"]
+    },
+    {
+      "name": "Livingston Tennis Courts",
+      "bus_stops": ["The Quads"]
+    },
+    {
+      "name": "Practice Soccer Fields",
+      "bus_stops": ["Stadium West Lot"]
+    },
+    {
+      "name": "RUNet Field",
+      "bus_stops": ["The Quads"]
+    },
+    {
+      "name": "Gordon Road Office Building",
+      "bus_stops": ["Livingston Student Center"]
+    },
+    {
+      "name": "Property Management Building",
+      "bus_stops": ["Livingston Student Center"]
+    },
+    {
+      "name": "Postal Plaza Building",
+      "bus_stops": ["Livingston Plaza"]
+    },
+    {
+      "name": "Facilities Operations & Services – Busch (located near Livingston)",
+      "bus_stops": ["Jersey Mike's Arena"
+]
+    },
+    {
+      "name": "Facilities Contract Services Shops",
+      "bus_stops": ["Livingston Student Center", "Livingston Plaza"]
+    },
+     {
+      "name": "Surplus & Material Services Warehouse",
+      "bus_stops": ["The Quads"]
+    },
+    {
+      "name": "Geological Core Repository",
+      "bus_stops": ["Jersey Mike's Arena"
+]
+    },
+    {
+      "name": "Rutgers Environmental Health & Safety (REHS)",
+      "bus_stops": ["Livingston Student Center"]
+    },
+    {
+      "name": "Dining Services Warehouse",
+      "bus_stops": ["Livingston Student Center"]
+    },
+    {
+      "name": "University Housing & Grounds Operation",
+      "bus_stops": ["Livingston Student Center"]
+    },
+    {
+      "name": "Livingston Converter Compactor House Building D",
+      "bus_stops": ["Livingston Student Center"]
+    },
+    {
+      "name": "Rutgers Makerspace",
+      "bus_stops": ["The Quads"]
+    },
+    {
+      "name": "Livingston Day Care",
+      "bus_stops": ["Livingston Student Center"]
+    },
+    {
+      "name": "Busch–Livingston Health Center",
+      "bus_stops": ["Jersey Mike’s Arena"]
+    },
+    {
+      "name": "Rutgers Ecological Preserve & Solar Farm",
+      "bus_stops": ["The Quads"]
+    }
+  ],
+    
+   "College Avenue": [
+    {
+      "name": "Alexander Library",
+      "bus_stops": ["College Avenue Student Center"]
+    },
+    {
+      "name": "Center for Cultural Analysis",
+      "bus_stops": [
+        "The Yard"
+      ]
+    },
+    {
+      "name": "College Ave Gym",
+      "bus_stops": ["College Avenue Student Center"]
+    },
+    {
+      "name": "Brower Commons",
+      "bus_stops": ["College Ave Student Center"]
+    },
+    {
+      "name": "Scott Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Records Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Murray Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "College Avenue Student Center",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Brett Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Ballantine Building",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Gateway Transit Village",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Ford Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Mettler Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Tinsley Hall",
+      "bus_stops": ["Student Activities Center"]
+    },
+    {
+      "name": "Clothier Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Winants Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Honors College",
+      "bus_stops": ["The Yard"]
+    },
+     {
+      "name": "Rutgers Academic Building",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Miller Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Eva & Arie Halpern Hillel House",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Campbell Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Demarest Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Stonier Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Hegeman Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Van Dyck Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Hardenbergh Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Old Queens",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Pell Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Frelinghuysen Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Kreeger Learning Center",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "New Brunswick Theological Seminary",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Hurtado Health Center",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+     {
+      "name": "Milledoler Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Bishop House",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Geology Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Wessels Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "New Jersey Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Kirkpatrick Chapel",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Leupp Hall",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Gardner A. Sage Library",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Graduate School of Education Building",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "School of Communication & Information",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Sojourner Truth Apartments",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Van Nest Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "McKinney Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Student Activities Center (SAC)",
+      "bus_stops": ["Student Activities Center"
+]
+    },
+    {
+      "name": "Army ROTC",
+      "bus_stops": ["College Ave Student Center"]
+    },
+    {
+      "name": "Language Lab",
+      "bus_stops": ["SoCam Apartments"]
+    },
+    {
+      "name": "Rutgers Counseling Center",
+      "bus_stops": ["SoCam Apartments"]
+    },
+    {
+      "name": "Graduate School of Social Work",
+      "bus_stops": ["SoCam Apartments"]
+    },
+    {
+      "name": "Alexander Johnston Hall",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Simeon DeWitt Building",
+      "bus_stops": ["College Ave Student Center"]
+    },
+    {
+      "name": "SAS Dean’s Office",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "School of Social Work Annexes",
+      "bus_stops": ["The Yard"]
+    },
+    {
+      "name": "Various SAS / SC&I / Global offices & Center",
+      "bus_stops": ["Student Activities Center"
+]
+    }
+  ],
+    
+  "Cook/Douglass": [
+     {
+      "name": "Class of 1914 Boathouse",
+      "bus_stops": ["Gibbons"]
+    },
+    {
+      "name": "Biological Sciences Building",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "College Hall",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Graduate Music House",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Gibbons Halls",
+      "bus_stops": ["Gibbons"]
+    },
+    {
+      "name": "Douglass Library",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Douglass Developmental Disabilities Center",
+      "bus_stops": ["Gibbons"]
+    },
+    {
+      "name": "Perry Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Rutgers Lifelong Learning Center",
+      "bus_stops": ["Biel Road"]
+    },
+    {
+      "name": "Dr. Ruth Adams Building",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Marryott Music Building",
+      "bus_stops": ["College Hall", "Gibbons"]
+    },
+    {
+      "name": "Federation Hall",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Cook Office Building",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Katzenbach Hall",
+      "bus_stops": ["Gibbons"]
+    },
+    {
+      "name": "Office of Climate Action",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Philip J. Levin Theater",
+      "bus_stops": ["College Hall"]
+    },
+     {
+      "name": "Douglass Student Center",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Davison Hall",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Waller Hall",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Art History Hall",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Neilson Dining Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Henderson Apartments",
+      "bus_stops": ["Henderson Apartments"]
+    },
+    {
+      "name": "Lipman Learning House",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Wood Lawn Mansion",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Lippincott Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Corwin Hall",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Nicholas Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Corwin Lodge",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Lipman Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Martin Hall",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Bartlett Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Little Theater",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Facilities & Services",
+      "bus_stops": ["Gibbons"]
+    },
+    {
+      "name": "Marine Sciences Building",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Cook Student Center",
+      "bus_stops": ["Biel Road"]
+    },
+    {
+      "name": "Bioresource Engineering Laboratory",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Helyar House",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Cook/Douglass Recreation Center",
+      "bus_stops": ["Biel Road"]
+    },
+    {
+      "name": "Newell Apartments",
+      "bus_stops": ["Biel Road"]
+    },
+    {
+      "name": "Voorhees Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Starkey Apartments",
+      "bus_stops": ["Biel Road"]
+    },
+    {
+      "name": "Dairy Boarding House",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Operator Training Center",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Wittenborn Scholars Residence",
+      "bus_stops": ["Henderson Apartments"]
+    },
+    {
+      "name": "Administrative Services Building",
+      "bus_stops": ["Henderson Apartments"]
+    },
+    {
+      "name": "Livestock Research & Teaching Facilities",
+      "bus_stops": ["Lipman Hall"]
+    },
+  {
+      "name": "Food Science & Nutritional Sciences Building",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Environmental & Natural Resource Sciences Building",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "University Post Office",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Cook/Douglass Lecture Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Labor Education Center",
+      "bus_stops": ["Henderson Apartments"]
+    },
+    {
+      "name": "Woodbury Residence Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Bunting-Cobb Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Loree Classroom/Office Building & Gymnasium",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Ruth Schilling Hennessy Alumni Center",
+      "bus_stops": ["Gibbons"]
+    },
+    {
+      "name": "Voorhees Chapel",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Animal Research Facilities",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Walters Hall",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Nicholas Music Center",
+      "bus_stops": ["Gibbons"]
+    },
+    {
+      "name": "Victoria J. Mastrobuono Theater",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Greenhouses and Field Houses",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Thompson Hall",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Blake Hall",
+      "bus_stops": ["Red Oak Lane"]
+    },
+      {
+      "name": "Jameson Halls",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Heldrich Science Building",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Foran Hall",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "University Inn & Conference Center",
+      "bus_stops": ["Gibbons"]
+    },
+    {
+      "name": "Floriculture Greenhouses",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Bioresource Engineering Office",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Institute for Food, Nutrition & Health",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Hickman Hall",
+      "bus_stops": ["Gibbons"]
+    },
+    {
+      "name": "New Jersey Law Center",
+      "bus_stops": ["Biel Road"]
+    },
+    {
+      "name": "Carpender Hall",
+      "bus_stops": ["College Hall"]
+    },
+    {
+      "name": "Center for Adult Autism Services",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Ruth Dill Johnson Crockett Building",
+      "bus_stops": ["Henderson Apartments"]
+    },
+    {
+      "name": "Center for Women’s Programs",
+      "bus_stops": ["Red Oak Lane"]
+    },
+    {
+      "name": "Plant Physiology Building",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Rutgers Gardens Main Office",
+      "bus_stops": ["Biel Road"]
+    },
+    {
+      "name": "Dairy Barn & Creamery",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Research Greenhouses & Headhouse",
+      "bus_stops": ["Lipman Hall"]
+    },
+    {
+      "name": "Community Farmers Market Pavilion",
+      "bus_stops": ["Red Oak Lane"]
+    }
+  ]
+}
+ 
